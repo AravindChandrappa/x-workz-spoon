@@ -3,6 +3,7 @@ public class Fact
 {
     public static void main(String[] args)
     {
+        System.out.println("main method started")
         int fact=1;
         int num;
 
