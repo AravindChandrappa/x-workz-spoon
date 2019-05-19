@@ -10,6 +10,7 @@ public class Fact
         Scanner scan=new Scanner(System.in);
         //djh sud dsdusb sd
         System.out.println("Enter the number to fact:");
+        //idiu udwwi udj uwdw
         num=scan.nextInt();
         for(int i=1;i<=num;i++)
         {
